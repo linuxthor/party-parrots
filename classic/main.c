@@ -31,7 +31,7 @@ hell:
     reset();
     printf("%s\n",parrot_8_txt);
     reset();
-    printf("%s\n",parrot_8_txt);
+    printf("%s\n",parrot_9_txt);
     reset();
     goto hell;
     _exit(0);
