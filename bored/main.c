@@ -6,7 +6,7 @@
 
 void reset(void)
 {
-    usleep(70000);
+    usleep(50000);
     printf("\033[H\033[J");
 }
 
